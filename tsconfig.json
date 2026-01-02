@@ -2,7 +2,8 @@
   "include": ["./src/**/*.ts"],
   "exclude": [
     "./src/**/__tests__",
-    "node_modules"
+    "node_modules",
+    "node_modules/**/*.ts"
   ],
   "compilerOptions": {
     "lib": [
@@ -25,6 +26,7 @@
     "noUncheckedIndexedAccess": true,
     "allowSyntheticDefaultImports": true,
     "inlineSources": true,
-    "strictFunctionTypes": true
+    "strictFunctionTypes": true,
+    "noEmit": false
   }
 }
