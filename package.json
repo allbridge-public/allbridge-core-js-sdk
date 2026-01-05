@@ -111,7 +111,7 @@
     "querystring": "^0.2.1",
     "randombytes": "^2.1.0",
     "timed-cache": "^2.0.0",
-    "tronweb": "^6.0.0",
+    "tronweb": "^6.1.1",
     "web3": "^4.16.0",
     "web3-eth-contract": "^4.7.2",
     "web3-eth-abi": "^4.4.1",
