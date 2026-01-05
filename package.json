@@ -50,7 +50,7 @@
   "keywords": [],
   "devDependencies": {
     "@eslint/compat": "^1.2.4",
-    "@eslint/eslintrc": "^3.2.0",
+    "@eslint/eslintrc": "^3.3.3",
     "@eslint/js": "^9.17.0",
     "@ryansonshine/commitizen": "^4.2.8",
     "@ryansonshine/cz-conventional-changelog": "^3.3.4",
