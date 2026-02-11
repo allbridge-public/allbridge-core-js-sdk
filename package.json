@@ -112,7 +112,7 @@
     "@stellar/stellar-sdk": "^14.0.0",
     "algosdk": "^3.5.2",
     "assert": "^2.1.0",
-    "axios": "^1.7.9",
+    "axios": "^1.13.5",
     "big.js": "^6.2.2",
     "bn.js": "^5.2.1",
     "querystring": "^0.2.1",
